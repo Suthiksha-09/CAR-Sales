@@ -20,5 +20,18 @@ Developed a dynamic Car Sales Dashboard in Power BI to track and analyze critica
    - YTD Cars Sold  
    - MTD Cars Sold  
    - YOY Growth in Cars Sold  
-   - Difference between YTD and PYTD Cars Sold  
+   - Difference between YTD and PYTD Cars Sold
+     
+## 📌 Project Process
+- Imported the car sales dataset into Power BI and reviewed the data structure.
+- Performed data cleaning and transformation using Power Query (handled missing values, removed duplicates, formatted columns).
+- Created relationships between tables and built an optimized data model.
+- Developed DAX measures to calculate KPIs such as YTD Sales, MTD Sales, YOY Growth, Average Price, and Cars Sold.
+- Designed an interactive dashboard using cards, charts, and slicers for dynamic analysis.
+- Analyzed sales trends and performance to generate meaningful business insights.
 
+## 📊 Dashboard Preview
+
+Here is a snapshot of the interactive overview dashboard created in Power BI:
+
+![Overview Dashboard](https://github.com/Suthiksha-09/CAR-Sales/blob/main/Over%20View%20Dashboard.png)
