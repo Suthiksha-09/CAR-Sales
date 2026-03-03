@@ -4,11 +4,10 @@ Developed a dynamic Car Sales Dashboard in Power BI to track and analyze critica
 <a href="https://github.com/Suthiksha-09/CAR-Sales/blob/main/Car%20Sales.xlsx">Dataset</a>
 ## Questions KPI
 1.	Sales Overview:
-Year-to-Date (YTD) Total Sales ?
-
-Month-to-Date (MTD) Total Sales ?
-	Year-over-Year (YOY) Growth in Total Sales ?
-Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales ?
+-Year-to-Date (YTD) Total Sales ?
+-Month-to-Date (MTD) Total Sales ?
+-Year-over-Year (YOY) Growth in Total Sales ?
+-Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales ?
 3.	Average Price Analysis:
 YTD Average Price ?
 MTD Average Price ?
